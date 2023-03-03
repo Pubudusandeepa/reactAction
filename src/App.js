@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Github Action for react </h2>
+        <h2>Github Action for react Mighty</h2>
       </header>
     </div>
   );
